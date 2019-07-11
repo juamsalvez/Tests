@@ -1,0 +1,49 @@
+
+
+.texto {
+    width: 200px;
+    height: 200px;
+    font-size: 15px;
+    background: #0e6ba8;
+    margin: 20px;
+    overflow: auto;
+}
+
+.contenedor {
+    background: grey;
+    width: 25%;
+    height: 220px;
+    margin: 0px;
+    position: relative;
+}
+
+.caja {
+    width: 200px;
+    height: 200px;
+    background: #0e6ba8;
+    margin:10px;
+    position:;
+    float: left;
+}
+
+a {
+    position:relative;
+    margin: 20px 0;
+    background: grey;
+    border-radius: 1000px;
+    padding: 20px;
+}
+
+a:link {
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    color: grey;
+}
+
+p:nth-child(2) {
+    color: black;
+    font-size: 35px;
+    text-shadow: 2px 3px 80px #000;
+}
